@@ -83,11 +83,11 @@ Existen tantas definiciones de User Experience como interpretaciones a la mancha
 
 > Experiencia de Usuario: Percepciones de una persona y las respuestas resultantes del uso y/o el uso previsto de un producto, sistema o servicio.
 
-* <strong>NOTA 1.</strong> La experiencia de usuario incluye todas las emociones de los usuarios, creencias, preferencias, percepciones, las respuestas físicas y psicológicas, comportamientos y logros que ocurren antes, durante y después de su uso.
+<strong>NOTA 1.</strong> La experiencia de usuario incluye todas las emociones de los usuarios, creencias, preferencias, percepciones, las respuestas físicas y psicológicas, comportamientos y logros que ocurren antes, durante y después de su uso.
 
-* <strong>NOTA 2.</strong> La experiencia de usuario es una consecuencia de la imagen de marca, la presentación, la funcionalidad, el rendimiento del sistema, el estado físico e interno del usuario como resultado de experiencias previas, actitudes, habilidades y personalidad, y el contexto de uso.
+<strong>NOTA 2.</strong> La experiencia de usuario es una consecuencia de la imagen de marca, la presentación, la funcionalidad, el rendimiento del sistema, el estado físico e interno del usuario como resultado de experiencias previas, actitudes, habilidades y personalidad, y el contexto de uso.
 
-* <strong>NOTA 3.</strong> Usabilidad, si se interpreta desde la perspectiva de las metas personales de los usuarios, puede incluir el tipo de aspectos perceptivos y emocionales típicamente asociados con la experiencia del usuario. Los criterios de usabilidad pueden ser usados para evaluar los aspectos de la experiencia del usuario.
+<strong>NOTA 3.</strong> Usabilidad, si se interpreta desde la perspectiva de las metas personales de los usuarios, puede incluir el tipo de aspectos perceptivos y emocionales típicamente asociados con la experiencia del usuario. Los criterios de usabilidad pueden ser usados para evaluar los aspectos de la experiencia del usuario.
 
 La definición del Dream Team sobre UX sería:
 
