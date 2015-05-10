@@ -1,0 +1,18 @@
+name: Travelnet, absolutely in the limits
+description: "A case study, docs and daily situations re-designing a complete project."
+
+url: http://designingtravel.github.io
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+pygments: true
+paginate: 5
+
+navigation:
+# - title: Inicio
+#   url: /index.html
+# - title: Acerca de
+#   url: /about
+# - title: Contact
+#  url: /contact
