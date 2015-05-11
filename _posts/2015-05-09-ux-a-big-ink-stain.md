@@ -105,12 +105,12 @@ Es decir, si tu ves dos elefantes columpiándose sobre la tela de una araña en 
 Para finalizar, el Dream Team está comprometido en brindar la mejor Experiencia de Usuario a nuestra audiencia con el nuevo diseño, que hemos realizado el [Test](https://developers.google.com/speed/pagespeed/insights/?url=designingtravel.github.io%2Ftravel%2Flayouts%2Fhtml%2Fhotel.results.html) de Google PageSpeed Insights y este es el resultado:
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxnewdesign.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/uxnewdesign.png" alt=""> 
 	<figcaption>Fig3. - Experiencia de Usuario en el nuevo diseño</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxolddesign.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/uxolddesign.png" alt=""> 
 	<figcaption>Fig4. - Experiencia de Usuario en el anterior diseño</figcaption>
 </figure>
 
