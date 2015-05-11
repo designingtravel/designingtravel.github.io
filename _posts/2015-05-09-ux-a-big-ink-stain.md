@@ -63,7 +63,7 @@ Abordada de manera inicial sólo por la ciencias computacionales, muy pronto se 
 El carácter multidisciplinario de HCI se ve reflejado en la currícula de [ACM SIGHCI](http://www.sigchi.org/); "en HCI cabemos todos".
 
 <figure>
-	<img src="{{ site.url }}/assets/img/hci.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/hci.gif" alt=""> 
 	<figcaption>Fig2. - ACM SIGHCI para Interacción Humano-Computadora</figcaption>
 </figure>
 
