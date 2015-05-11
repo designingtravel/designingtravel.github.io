@@ -2,6 +2,7 @@
 layout: post
 title:  "Issue 5 // UX: 5 simples pasos para construir un mejor Travelnet"
 date:   2015-05-11
+published: false
 ---
 
 > We are a group of two people who are really, really super-talented, but we really care. We care about details that a designer might not show in his portfolio because it’s so arcane. And yet getting it right is so critical to the experience.
@@ -39,3 +40,4 @@ Hay muchas maneras de recolectar información, éstas son nuestras favoritas. De
 
 ### User Flows
 
+Ahora que la información ha sido recolectada
