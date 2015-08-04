@@ -4,9 +4,9 @@ title:  "Issue 5 // Re-diseño [Concepto]"
 date:   2015-08-04
 ---
 
-Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em>call-to-action</em>.
+Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em>[call-to-action]</em>(https://boagworld.com/design/10-techniques-for-an-effective-call-to-action/).
 
-En realidad, la nueva búsqueda está sujeta a prioridades, actitudes y comportamiento. Permite organizar los eventos y evitar las inconsistencias en la covertura de los mismos eventos (promociones) con múltiples <em>brokers</em>.
+En realidad, la nueva búsqueda está sujeta a prioridades, actitudes y comportamiento. Permite organizar los eventos y evitar las inconsistencias en la cobertura de los mismos eventos (promociones) con múltiples <em>brokers</em>.
 
 Al día de hoy, hay demasiada información, y mucha de ella depende de sí misma. El "punto de vista" de cada una es muy significante, algo que en el actual Travel no se esfatiza, y mucho menos se enfoca en los resultados.
 
@@ -25,7 +25,7 @@ Como la mayoria de los servicios que ofrece Travel, la búsqueda múltiple que r
 
 ### Análisis del sitio actual
 
-El sitio actual se enfoca en solo mostrar resultados, identificar las debilidades fue fácil. Para la época en que salió Travel y la época en que estamos, los usuarios demandan más usabilidad y tener un <em>story telling</em> muy fuerte.
+El sitio actual se enfoca en solo mostrar resultados, identificar las debilidades fue fácil. Para la época en que salió Travel y la época en que estamos, los usuarios demandan más usabilidad y tener un <em>[story telling]</em>(https://medium.com/about/storytelling-for-good-cac0f81cd79a) muy fuerte.
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
@@ -34,7 +34,7 @@ El sitio actual se enfoca en solo mostrar resultados, identificar las debilidade
 
 ### Casos de uso
 
-Comprendiendo la audiencia que tenemos, hemos tomado 4 casos de uso y se ha analizado las necesidades que tendría cada uno al conocer el sitio, nos ha permitido generar <strong>que funciones serían más útiles</strong>.
+Comprendiendo la audiencia que tenemos, hemos tomado 4 casos de uso y se ha analizado las necesidades que tendría cada uno al conocer el sitio, nos ha permitido generar <strong>qué funciones serían más útiles</strong>.
 
 <table>
 	<thead>
@@ -110,7 +110,7 @@ Comprendiendo la audiencia que tenemos, hemos tomado 4 casos de uso y se ha anal
 </table>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/use-cases.png" alt="Casos de Uso Google News"> 
+	<img src="{{ site.url }}/assets/img/user-cases.png" alt="Casos de Uso Google News"> 
 	<figcaption>Fig3. - Casos de Uso Google News</figcaption>
 </figure>
 
@@ -142,23 +142,19 @@ Una vez definidas las metas y los instrumentos para re-diseñar, es necesario em
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/ux-sketches-1.png" alt="Sketches, Wireframes"> 
-	<figcaption>Fig7. - Sketches, Wireframes</figcaption>
+	<img src="{{ site.url }}/assets/img/ux-sketches-1.png" alt="Sketches, Wireframes">
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/ux-sketches-2.png" alt="Sketches, Wireframes"> 
-	<figcaption>Fig8. - Sketches, Wireframes</figcaption>
+	<img src="{{ site.url }}/assets/img/ux-sketches-2.png" alt="Sketches, Wireframes">
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/ux-sketches-3.png" alt="Sketches, Wireframes"> 
-	<figcaption>Fig9. - Sketches, Wireframes</figcaption>
+	<img src="{{ site.url }}/assets/img/ux-sketches-3.png" alt="Sketches, Wireframes">
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/ux-sketches-4.png" alt="Sketches, Wireframes"> 
-	<figcaption>Fig10. - Sketches, Wireframes</figcaption>
+	<img src="{{ site.url }}/assets/img/ux-sketches-4.png" alt="Sketches, Wireframes">
 </figure>
 
 ### Panel
@@ -168,24 +164,24 @@ Esto ayuda a crear una mejor experiencia de usuario y también una idea de cómo
 
 <figure>
 	<img src="{{ site.url }}/assets/img/mood.png" alt="Páneles de distintas colores, sabores y diseños"> 
-	<figcaption>Fig11. - Páneles de distintas colores, sabores y diseños</figcaption>
+	<figcaption>Fig7. - Páneles de distintas colores, sabores y diseños</figcaption>
 </figure>
 
 ### Tipografía, Grid
 
-Para la tipografía normal, elegimos ___________________ la cual representa la perfecta simplicidad para Travel. Para resultados elegimos una fuente ________, está enfocada mucho más en párrafos.
+Para la tipografía normal, elegimos [Myriad Pro](https://en.wikipedia.org/wiki/Myriad_(typeface)) la cual representa la perfecta simplicidad para Travel. Para resultados elegimos [Trebuchet MS](https://en.wikipedia.org/wiki/Trebuchet_MS), está enfocada mucho más en párrafos.
 
 El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de base. Uno de los <em>grid</em> más típicos pero no mejor empleados, con el enfoque en resultados el <em>grid</em> de 12 columnas es perfecto para nuestra idea.
 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/typography-1.png" alt="tipografía"> 
-	<figcaption>Fig12. - Evaluación de la tipografía seleccionada</figcaption>
+	<figcaption>Fig8. - Evaluación de la tipografía seleccionada</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/typography-2.png" alt="grid"> 
-	<figcaption>Fig13. - El grid</figcaption>
+	<figcaption>Fig9. - El grid</figcaption>
 </figure>
 
 ## Diseño, Funcionalidad, Usabilidad
@@ -194,17 +190,17 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig14. - Nuevo diseño</figcaption>
+	<figcaption>Fig10 - Nuevo diseño</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig15. - Enfocado a resultados</figcaption>
+	<figcaption>Fig11. - Enfocado a resultados</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig16. - Story telling</figcaption>
+	<figcaption>Fig12. - Story telling</figcaption>
 </figure>
 
 
@@ -212,17 +208,17 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig17. - Versión Desktop</figcaption>
+	<figcaption>Fig13. - Versión Desktop</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig18 - Versión iPad</figcaption>
+	<figcaption>Fig14 - Versión iPad</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig19. - Versión Mobile</figcaption>
+	<figcaption>Fig15. - Versión Mobile</figcaption>
 </figure>
 
 ### Nota
