@@ -5,7 +5,7 @@ date:   2015-08-04
 ---
 
 <figure>
-	<img src="{{ site.url }}/assets/img/design.jpg" alt="Getting that!">
+	<img src="{{ site.url }}/assets/img/gadgets.jpg" alt="Getting that!">
 </figure>
 
 Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em><a href="https://boagworld.com/design/10-techniques-for-an-effective-call-to-action">call-to-action</a></em>.
