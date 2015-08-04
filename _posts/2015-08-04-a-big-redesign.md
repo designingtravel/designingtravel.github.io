@@ -4,7 +4,7 @@ title:  "Issue 5 // Travelnet [Concepto]"
 date:   2015-08-04
 ---
 
-Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em>[call-to-action]</em>(https://boagworld.com/design/10-techniques-for-an-effective-call-to-action/).
+Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em><a href="https://boagworld.com/design/10-techniques-for-an-effective-call-to-action">call-to-action</a></em>.
 
 En realidad, la nueva búsqueda está sujeta a prioridades, actitudes y comportamiento. Permite organizar los eventos y evitar las inconsistencias en la cobertura de los mismos eventos (promociones) con múltiples <em>brokers</em>.
 
@@ -25,7 +25,7 @@ Como la mayoria de los servicios que ofrece Travel, la búsqueda múltiple que r
 
 ### Análisis del sitio actual
 
-El sitio actual se enfoca en solo mostrar resultados, identificar las debilidades fue fácil. Para la época en que salió Travel y la época en que estamos, los usuarios demandan más usabilidad y tener un <em>[story telling]</em>(https://medium.com/about/storytelling-for-good-cac0f81cd79a) muy fuerte.
+El sitio actual se enfoca en solo mostrar resultados, identificar las debilidades fue fácil. Para la época en que salió Travel y la época en que estamos, los usuarios demandan más usabilidad y tener un <em><a href="https://medium.com/about/storytelling-for-good-cac0f81cd79a">story telling</a></em> muy fuerte.
 
 <figure>
 	<img src="{{ site.url }}/assets/img/travel-debilidades.png" alt="Debilidades del Travel actual"> 
