@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Issue 5 // Re-diseño [Concepto]"
+title:  "Issue 5 // Travelnet [Concepto]"
 date:   2015-08-04
 ---
 
@@ -209,4 +209,4 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 ### Nota
 
-Este re-diseño es idea nuestra, y fue hecho solo para propósitos de estudio y no se supone que sea desarrollado o implementado en Travel, tal vez para alguna idea que lleguemos a tener más adelante. El re-diseño contiene ideas propias.
+Este re-diseño es idea nuestra, y fue hecho solo para propósitos de estudio y no se supone que sea desarrollado o implementado en Travel, pero sería magnífico aventurarse e inovar éste mercado.
