@@ -28,7 +28,7 @@ Como la mayoria de los servicios que ofrece Travel, la búsqueda múltiple que r
 El sitio actual se enfoca en solo mostrar resultados, identificar las debilidades fue fácil. Para la época en que salió Travel y la época en que estamos, los usuarios demandan más usabilidad y tener un <em>[story telling]</em>(https://medium.com/about/storytelling-for-good-cac0f81cd79a) muy fuerte.
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/travel-debilidades.png" alt="Debilidades del Travel actual"> 
 	<figcaption>Fig2. - Debilidades del Travel actual</figcaption>
 </figure>
 
@@ -189,37 +189,23 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 > Después de una intensa investigación, muchas horas de nuestro tiempo libre y gran cantidad de tazas de café, nos tomó solo 2 semanas conjuntar todo y crear un diseño, el diseño será <em>fully-responsive</em> y no hay mejor idea para representar el futuro de una compañía que se dedica a obtener los mejores resultados en reservaciones.
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/design.jpg" alt="Nuevo diseño"> 
 	<figcaption>Fig10 - Nuevo diseño</figcaption>
-</figure>
-
-<figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig11. - Enfocado a resultados</figcaption>
-</figure>
-
-<figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig12. - Story telling</figcaption>
 </figure>
 
 
 ## Responsive sin limitaciones
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/macbook.jpg" alt="Versión Desktop"> 
 	<figcaption>Fig13. - Versión Desktop</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig14 - Versión iPad</figcaption>
+	<img src="{{ site.url }}/assets/img/mversion.jpg" alt="Versión iPad y  Móvil"> 
+	<figcaption>Fig14 - Versión iPad y  Móvil</figcaption>
 </figure>
 
-<figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig15. - Versión Mobile</figcaption>
-</figure>
 
 ### Nota
 
