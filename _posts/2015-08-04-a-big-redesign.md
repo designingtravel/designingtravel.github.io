@@ -2,7 +2,6 @@
 layout: post
 title:  "Issue 6 // Re-diseño [Concepto]"
 date:   2015-08-04
-published: false
 ---
 
 Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em>call-to-action</em>.
