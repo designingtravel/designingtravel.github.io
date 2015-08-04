@@ -16,7 +16,7 @@ Al día de hoy, hay demasiada información, y mucha de ella depende de sí misma
 
 Se ha vuelto muy difícil entender el flujo de la información. Para la opinión personal, es un tremendo reto buscar un hotel.
 
-> Este problema nos ha permitido idear una idea que permite agilizar la lectura y búsqueda de resultados, enfocando la energía en el contenido de los eventos (promociones).
+> Este problema nos ha permitido idear una solución que permite agilizar la lectura y búsqueda de resultados, enfocando la energía en el contenido de los eventos (promociones).
 
 <figure>
 	<img src="{{ site.url }}/assets/img/google-news.jpg" alt="Resultados de Google News"> 
