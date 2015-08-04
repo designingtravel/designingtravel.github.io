@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Issue 6 // Re-diseño [Concepto]"
+title:  "Issue 5 // Re-diseño [Concepto]"
 date:   2015-08-04
 ---
 
@@ -15,7 +15,7 @@ Se ha vuelto muy difícil entender el flujo de la información. Para la opinión
 > Este problema nos ha permitido idear una idea que permite agilizar la lectura y búsqueda de resultados, enfocando la energía en el contenido de los eventos (promociones).
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/google-news.jpg" alt="Resultados de Google News"> 
 	<figcaption>Fig1. - Resultados de Google News</figcaption>
 </figure>
 
@@ -40,81 +40,78 @@ Comprendiendo la audiencia que tenemos, hemos tomado 4 casos de uso y se ha anal
 	<thead>
 		<tr>
 			<th>
-				<p>Oliver, 23 años.</p>
-				<p>Estudiante</p>
+				Oliver, 23 años.<br/>
+				<em>Estudiante</em>
 			</th>
 			<th>
-				<p>Alberto, 28 años.</p>
-				<p>Ingeniero</p>
+				Alberto, 28 años.<br/>
+				<em>Ingeniero</em>
 			</th>
 			<th>
-				<p>Olga, 36 años.</p>
-				<p>Abogada</p>
+				Olga, 36 años.<br/>
+				<em>Abogada</em>
 			</th>
 			<th>
-				<p>Liliana, 56 años.</p>
-				<p><em>de la vieja escuela</em></p>
+				Liliana, 56 años.<br/>
+				<em>de la vieja escuela</em>
 			</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				<p>Oliver no está interesado en la búsqueda, en reservar un hotel, algunas veces él le solicita a la secretaria de su papá que realice ese trámite por él. O algunas veces a los profesores. Analicemos qué acciones podría realizar dentro de Travel:</p>
-				<ul>
-					<li>Ordenar los resultados</li>
-					<li>Buscar por ciudad</li>
-					<li>Leer las promociones (<em>Oh! No sabe donde están.</em>)</li>
-					<li>Abrir algún resultado sin reservar hotel</li>
-					<li>No reservó</li>
+				Oliver no está interesado en la búsqueda, en reservar un hotel, algunas veces él le solicita a la secretaria de su papá que realice ese trámite por él. O algunas veces a los profesores. Analicemos qué acciones podría realizar dentro de Travel:<br/><br/>
+				
+				― Ordenar los resultados <br/>
+				― Buscar por ciudad <br/>
+				― Leer las promociones (<em>Oh! No sabe donde están.</em>) <br/>
+				― Abrir algún resultado sin reservar hotel <br/>
+				― No reservó <br/>
 				</ul>
 			</td>
 			<td>
-				<p>Alberto siempre ha ocupado grandes motores de búsqueda de hoteles, y por obviedad siempre ha reservado. Él es un usuario que podría ayudarnos mucho en ejemplificar la usabilidad. ¿Que podría hacer un ingeniero como él en Travel?</p>
-				<ul>
-					<li>Ordenar por categoria</li>
-					<li>Guardar los resultados que más le agraden</li>
-					<li>Crear una lista de Hoteles</li>
-					<li>Buscar por Hotel</li>
-					<li>Comentar, preguntar dudas.</li>
-					<li>Seguir buscando y probando suerte.</li>
-					<li>Ordenar por fecha</li>
-					<li>Ajustar su página principal, para mostrar solo las promociones que le interesan.</li>
-					<li>Mostrar llos hoteles disponibles en el día actual sin tener que seleccionar la fecha.</li>
-				</ul>
+				Alberto siempre ha ocupado grandes motores de búsqueda de hoteles, y por obviedad siempre ha reservado. Él es un usuario que podría ayudarnos mucho en ejemplificar la usabilidad. ¿Que podría hacer un ingeniero como él en Travel? <br/><br/>
+				
+				― Ordenar por categoria <br/>
+				― Guardar los resultados que más le agraden<br/>
+				― Crear una lista de Hoteles<br/>
+				― Buscar por Hotel<br/>
+				― Comentar, preguntar dudas.<br/>
+				― Seguir buscando y probando suerte.<br/>
+				― Ordenar por fecha<br/>
+				― Ajustar su página principal, para mostrar solo las promociones que le interesan.<br/>
+				― Mostrar llos hoteles disponibles en el día actual sin tener que seleccionar la fecha.<br/>
 			</td>
 			<td>
-				<p>Olga está interesada solo en las leyes, cambios y pensamientos de políticos poderosos. También está interesada en asistir a una conferencia a USA. Pero no tiene mucha idea de como buscar un hotel y algún vuelo, si es que se anima a reservar con Travel.</p>
-				<ul>
-					<li>Selecciona fecha actual para buscar hoteles</li>
-					<li>Busca por hoteles, por destino.</li>
-					<li>Le gustaría buscar por mapa.</li>
-					<li>No habla español</li>
-					<li>Ajustar la búsqueda, ordenar por precio</li>
-					<li>Está encantada por la sección de filtros</li>
-				</ul>
+				Olga está interesada solo en las leyes, cambios y pensamientos de políticos poderosos. También está interesada en asistir a una conferencia a USA. Pero no tiene mucha idea de como buscar un hotel y algún vuelo, si es que se anima a reservar con Travel.<br/><br/>
+				
+				― Selecciona fecha actual para buscar hoteles<br/>
+				― Busca por hoteles, por destino.<br/>
+				― Le gustaría buscar por mapa.<br/>
+				― No habla español<br/>
+				― Ajustar la búsqueda, ordenar por precio<br/>
+				― Está encantada por la sección de filtros<br/>
 			</td>
 			<td>
-				<p>Liliana le tiene miedo a las computadoras pero no tiene otra salida, necesita visitar a sus hijos en Europa y ella tiene que reservar el vuelo y el hotel. Ya ha reservado hoteles, pero ésta es la primera vez que lo hace sola.</p>
-				<ul>
-					<li>Buscar hotel</li>
-					<li>Seleccionar fecha</li>
-					<li>No le gusta el color actual</li>
-					<li>Al ver los resultados se espanta, le gustaría enfocarse en la oferta del día</li>
-					<li>Ordenar por precio</li>
-					<li>No tiene mucha idea de donde está el hotel</li>
-					<li>Seguir buscando hotel</li>
-					<li>Está a punto de reservar un vuelo</li>
-					<li>Al final, ha optado por decirle a sus hijos que le reserven el vuelo y el hotel, ha quedado frustrada porque dice que las computadoras no son para ella y se siente "dejada" por la tecnología</li>
-				</ul>
+				Liliana le tiene miedo a las computadoras pero no tiene otra salida, necesita visitar a sus hijos en Europa y ella tiene que reservar el vuelo y el hotel. Ya ha reservado hoteles, pero ésta es la primera vez que lo hace sola.<br/><br/>
+				
+				― Buscar hotel<br/>
+				― Seleccionar fecha<br/>
+				― No le gusta el color actual<br/>
+				― Al ver los resultados se espanta, le gustaría enfocarse en la oferta del día<br/>
+				― Ordenar por precio<br/>
+				― No tiene mucha idea de donde está el hotel<br/>
+				― Seguir buscando hotel<br/>
+				― Está a punto de reservar un vuelo<br/>
+				― Al final, ha optado por decirle a sus hijos que le reserven el vuelo y el hotel, ha quedado frustrada porque dice que las computadoras no son para ella y se siente "dejada" por la tecnología<br/>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig3. - Casos de Uso al desarrollar Google News</figcaption>
+	<img src="{{ site.url }}/assets/img/use-cases.png" alt="Casos de Uso Google News"> 
+	<figcaption>Fig3. - Casos de Uso Google News</figcaption>
 </figure>
 
 ### Features
@@ -122,13 +119,13 @@ Comprendiendo la audiencia que tenemos, hemos tomado 4 casos de uso y se ha anal
 Basado en el análisis de los casos presentados anteriores, se ha tenido una pequeña sesión de las características que les gustaría a los usuarios poder manejar, las innovaciones han sido separadas en dos categorias: funcional y visual.
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/research-features.png" alt="Features del nuevo diseño"> 
 	<figcaption>Fig4. - Features del nuevo diseño</figcaption>
 </figure>
 
 ### Distintos escenarios
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/research-user-scenarios.png" alt=""> 
 	<figcaption>Fig5. - Escenarios evaluados por UX People de Google</figcaption>
 </figure>
 
@@ -140,13 +137,28 @@ Basado en el análisis de los casos presentados anteriores, se ha tenido una peq
 Una vez definidas las metas y los instrumentos para re-diseñar, es necesario empezar con sketches, papel y lapiz. Esto sirve para determinar el contenido de la página y el orden de los elementos.
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/plan.jpg" alt=""> 
 	<figcaption>Fig6. - Papel, lápiz e ideas plasmadas</figcaption>
 </figure>
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<img src="{{ site.url }}/assets/img/ux-sketches-1.png" alt="Sketches, Wireframes"> 
 	<figcaption>Fig7. - Sketches, Wireframes</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/ux-sketches-2.png" alt="Sketches, Wireframes"> 
+	<figcaption>Fig8. - Sketches, Wireframes</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/ux-sketches-3.png" alt="Sketches, Wireframes"> 
+	<figcaption>Fig9. - Sketches, Wireframes</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/ux-sketches-4.png" alt="Sketches, Wireframes"> 
+	<figcaption>Fig10. - Sketches, Wireframes</figcaption>
 </figure>
 
 ### Panel
@@ -155,8 +167,8 @@ Al crear <em>wireframes</em> hemos coleccionado una serie de ventajas comparando
 Esto ayuda a crear una mejor experiencia de usuario y también una idea de cómo se irá diseñando.
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig8. - Páneles de distintas colores, sabores y diseños</figcaption>
+	<img src="{{ site.url }}/assets/img/mood.png" alt="Páneles de distintas colores, sabores y diseños"> 
+	<figcaption>Fig11. - Páneles de distintas colores, sabores y diseños</figcaption>
 </figure>
 
 ### Tipografía, Grid
@@ -167,8 +179,13 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 
 <figure>
-	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig9. - Evaluación de la tipografía seleccionada</figcaption>
+	<img src="{{ site.url }}/assets/img/typography-1.png" alt="tipografía"> 
+	<figcaption>Fig12. - Evaluación de la tipografía seleccionada</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/typography-2.png" alt="grid"> 
+	<figcaption>Fig13. - El grid</figcaption>
 </figure>
 
 ## Diseño, Funcionalidad, Usabilidad
@@ -177,7 +194,17 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig10. - UX a través del tiempo</figcaption>
+	<figcaption>Fig14. - Nuevo diseño</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<figcaption>Fig15. - Enfocado a resultados</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
+	<figcaption>Fig16. - Story telling</figcaption>
 </figure>
 
 
@@ -185,17 +212,17 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig11. - Versión Desktop</figcaption>
+	<figcaption>Fig17. - Versión Desktop</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig12. - Versión iPad</figcaption>
+	<figcaption>Fig18 - Versión iPad</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/uxhistory.jpg" alt=""> 
-	<figcaption>Fig13. - Versión Mobile</figcaption>
+	<figcaption>Fig19. - Versión Mobile</figcaption>
 </figure>
 
 ### Nota
