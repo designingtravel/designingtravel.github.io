@@ -4,6 +4,10 @@ title:  "Issue 5 // Travelnet [Concepto]"
 date:   2015-08-04
 ---
 
+<figure>
+	<img src="{{ site.url }}/assets/img/design.jpg" alt="Getting that!">
+</figure>
+
 Éste nuevo re-diseño es una herramienta de conciencia. El objetivo es proveer a la sociedad <strong>informacion objetiva</strong> acerca de un evento o acción, <em><a href="https://boagworld.com/design/10-techniques-for-an-effective-call-to-action">call-to-action</a></em>.
 
 En realidad, la nueva búsqueda está sujeta a prioridades, actitudes y comportamiento. Permite organizar los eventos y evitar las inconsistencias en la cobertura de los mismos eventos (promociones) con múltiples <em>brokers</em>.
@@ -198,12 +202,12 @@ El <em>grid</em> que utilizamos está elaborado con 12 columnas, y 8 pixeles de 
 
 <figure>
 	<img src="{{ site.url }}/assets/img/macbook.jpg" alt="Versión Desktop"> 
-	<figcaption>Fig13. - Versión Desktop</figcaption>
+	<figcaption>Fig11. - Versión Desktop</figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.url }}/assets/img/mversion.jpg" alt="Versión iPad y  Móvil"> 
-	<figcaption>Fig14 - Versión iPad y  Móvil</figcaption>
+	<figcaption>Fig12 - Versión iPad y  Móvil</figcaption>
 </figure>
 
 
